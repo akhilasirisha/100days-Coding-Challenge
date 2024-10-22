@@ -25,8 +25,9 @@ Each day's solution will have:
 | Day   | Problem Link | Solution Link | Status |
 |-------|--------------|---------------|--------|
 | Day 1 | [Problem 1](./Day1/Day1.md) | [Solution](./Day1/Day1.md) | ✅ 
-| Day 2 | [Problem 2](./Day2/Day2.md) | [Solution](./Day2/Day2.md) | ✅ 
----
+| Day 2 | [Problem 2](./Day2/Day2.md) | [Solution](./Day2/Day2.md) | ✅
+| Day 3 | [Problem 3](./Day3/Day3.md) | [Solution](./Day3/Day3.md) | ✅
+
 ---
 ## 🚀 Goals
 
@@ -41,7 +42,7 @@ Feel free to explore the problems and solutions. If you spot a different approac
 ---
 
 **Let's Connect:**
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/akhila-sirisha-yarru-a9ab8822a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [GitHub](https://github.com/your-profile)
 
 
