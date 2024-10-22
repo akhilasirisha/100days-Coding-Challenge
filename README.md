@@ -17,7 +17,7 @@ I will be sharing weekly updates on LinkedIn to reflect on my progress, lessons 
 
 ## 📂 Repository Structure
 
-Each day's solution will have:
+Each day's solution will have:                                         
 - The **problem statement** (in Markdown format).
 - My **solution** implemented in Java.
 
@@ -25,6 +25,8 @@ Each day's solution will have:
 | Day   | Problem Link | Solution Link | Status |
 |-------|--------------|---------------|--------|
 | Day 1 | [Problem 1](./Day1/Day1.md) | [Solution](./Day1/Day1.md) | ✅ 
+| Day 2 | [Problem 2](./Day2/Day2.md) | [Solution](./Day2/Day2.md) | ✅ 
+---
 ---
 ## 🚀 Goals
 
